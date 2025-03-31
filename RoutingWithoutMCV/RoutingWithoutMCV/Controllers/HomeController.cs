@@ -21,5 +21,9 @@ namespace RoutingWithoutMCV.Controllers
         {
             return id ?? 1;
         }
+        public IActionResult Contact()
+        {
+            return View();
+        }
     }
 }
