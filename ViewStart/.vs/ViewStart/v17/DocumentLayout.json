@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout1.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Shared\\_Layout1.cshtml",
               "RelativeDocumentMoniker": "ViewStart\\Views\\Shared\\_Layout1.cshtml",
@@ -86,50 +86,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\Contact.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "ViewStart\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T10:08:15.176Z"
+              "WhenOpened": "2025-03-31T10:08:15.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\About.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "ViewStart\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T10:07:39.946Z"
+              "WhenOpened": "2025-03-31T10:07:39.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ViewStart\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-31T10:06:37.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewStart\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ViewStart\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T10:06:16.489Z",
               "EditorCaption": ""

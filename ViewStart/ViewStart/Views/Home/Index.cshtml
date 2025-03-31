@@ -8,7 +8,24 @@
 <h1>Index Page</h1>
 <p>This is index page</p>
 
-@ViewData["data6"]
+@ViewData["data1"]
+@ViewBag.data2
+
+@{
+    if (TempData["data4"] != null)
+    {
+        foreach (var item in (List<string>)TempData["data4"])
+        {
+            <h2>@item</h2>
+        }
+    }
+    else
+    {
+        <h2>No data found</h2>
+    }
+}
+
+@* @ViewData["data6"]
 <br />
 @ViewBag.Myname
 <br />
@@ -29,7 +46,7 @@
     {
         <h2>@items</h2>
     }
-}
+} *@
 
 
 
