@@ -8,7 +8,32 @@
 <h1>Index Page</h1>
 <p>This is index page</p>
 
-@ViewData["Data1"]
+@ViewData["data6"]
+<br />
+@ViewBag.Myname
+<br />
+@ViewBag.Data1
+<br />
+@ViewBag.Data2
+<br />
+@ViewBag.Data3
+<br />
+@{
+    foreach(var items in ViewBag.Data4)
+    {
+        <h2>@items</h2>
+    }
+}
+@{
+    foreach(var items in ViewBag.Data5)
+    {
+        <h2>@items</h2>
+    }
+}
+
+
+
+@* @ViewData["Data1"]
 <br />
 @ViewData["Data2"]
 <br />
@@ -26,4 +51,4 @@
     {
         <h2>@items</h2>
     }
-}
+} *@
