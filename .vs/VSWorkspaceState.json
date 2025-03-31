@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RoutingWithoutMCV",
+    "\\RoutingWithoutMCV\\RoutingWithoutMCV",
+    "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views",
+    "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home"
   ],
+  "SelectedNode": "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\About.cshtml",
   "PreviewInSolutionExplorer": false
 }

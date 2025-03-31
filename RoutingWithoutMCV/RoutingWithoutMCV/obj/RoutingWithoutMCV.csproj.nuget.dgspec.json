@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj": {}
+    "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj": {
+    "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj",
         "projectName": "RoutingWithoutMCV",
-        "projectPath": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\RoutingWithoutMCV.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

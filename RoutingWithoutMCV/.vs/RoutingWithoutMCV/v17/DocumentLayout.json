@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\study\\csharp\\routingwithoutmcv\\routingwithoutmcv\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\routingwithoutmcv\\routingwithoutmcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\study\\csharp\\routingwithoutmcv\\routingwithoutmcv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\routingwithoutmcv\\routingwithoutmcv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\study\\csharp\\routingwithoutmcv\\routingwithoutmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\routingwithoutmcv\\routingwithoutmcv\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\study\\csharp\\routingwithoutmcv\\routingwithoutmcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\routingwithoutmcv\\routingwithoutmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D0B233-C21A-4F7D-B2B2-7AD2582D5A2E}|RoutingWithoutMCV\\RoutingWithoutMCV.csproj|solutionrelative:routingwithoutmcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "RoutingWithoutMCV\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "RoutingWithoutMCV\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-29T03:58:02.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Program.cs",
               "RelativeDocumentMoniker": "RoutingWithoutMCV\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Program.cs",
               "RelativeToolTip": "RoutingWithoutMCV\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:54:43.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T03:54:43.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RoutingWithoutMCV\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-29T03:54:23.362Z",
               "EditorCaption": ""
@@ -75,11 +74,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RoutingWithoutMCV\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\CSharp\\RoutingWithoutMCV\\RoutingWithoutMCV\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\RoutingWithoutMCV\\RoutingWithoutMCV\\Controllers\\HomeController.cs",
               "RelativeToolTip": "RoutingWithoutMCV\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T03:53:04.34Z",
               "EditorCaption": ""
