@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoutingWithoutMCV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede74e92c73a83190fdcd7a27eb04c9c831a9267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f716c9443019ce9cef41af272046f28e43ae59")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoutingWithoutMCV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoutingWithoutMCV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|c:\\users\\user\\desktop\\padai\\dotnet\\viewstart\\viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FF1F16-4BEF-4417-835E-0C9BD738BCAD}|ViewStart\\ViewStart.csproj|solutionrelative:viewstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "ViewStart\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:21:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ViewStart\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:17:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewStart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:13:04.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ViewStart\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:08:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ViewStart\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:07:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewStart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ViewStart\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T10:06:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewStart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewStart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:06:16.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Program.cs",
+              "RelativeDocumentMoniker": "ViewStart\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Padai\\Dotnet\\ViewStart\\ViewStart\\Program.cs",
+              "RelativeToolTip": "ViewStart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:05:46.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
