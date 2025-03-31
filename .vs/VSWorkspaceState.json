@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RoutingWithoutMCV",
     "\\RoutingWithoutMCV\\RoutingWithoutMCV",
     "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views",
-    "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home"
+    "\\RoutingWithoutMCV\\RoutingWithoutMCV\\Views\\Home",
+    "\\ViewStart",
+    "\\ViewStart\\ViewStart",
+    "\\ViewStart\\ViewStart\\Controllers",
+    "\\ViewStart\\ViewStart\\Views",
+    "\\ViewStart\\ViewStart\\Views\\Home",
+    "\\ViewStart\\ViewStart\\Views\\Shared"
   ],
   "PreviewInSolutionExplorer": false
 }
